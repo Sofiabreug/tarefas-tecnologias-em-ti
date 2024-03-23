@@ -1,12 +1,14 @@
 # tarefas-tecnologias-em-ti
 Todas as tarefas realizadas em casa/aula
-----------------Aula 3- CRONOGRAMA----------------
+
+Aula 3- CRONOGRAMA
 
 O que é um cronograma? E qual a sua importância
    - Mostra quando as atividades do projeto serão desenvolvidas.
 
 Nesta aula, foi ensinado a partir de slides sobre gerenciamento de projeto, criacao de cronogramas com o Project ou ProjetLibre.
-----------------Alguns passos foram:----------------
+
+Alguns passos foram:
      
 1. Levantamento das atividades (ou tarefas) de um projeto
 2. Estimativa de Tempo, Responsável e Recursos de
